@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sultonqul Nortoyloqov
-- 👨‍💻 I’m a ReactJS developer at Pharmaceutical Technical University and Najot Ta'lim
+- 👨‍💻 I’m a ReactJS developer at Pharmaceutical Industry Development Agency and Najot Ta'lim
 - 📫 How to reach me: sultonqulnd@gmail.com
 - 📩 Telegram: @sultonqul
