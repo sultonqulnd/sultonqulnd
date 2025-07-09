@@ -22,7 +22,7 @@
   - Performance optimization and accessibility
 
 - 📫 Reach me at:  
-  [📧 sultonqulnd@gmail.com](mailto:sultonqulnd@gmail.com)  
+  [📧 me@sultonqul.uz](mailto:me@sultonqul.uz)  
   [💬 Telegram: @sultonqul](https://t.me/sultonqul)
 
 - 🛠️ Tech Stack:  
