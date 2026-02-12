@@ -5,37 +5,59 @@
 </p>
 
 <p align="center">
-  🚀 Passionate about building fast, scalable, and accessible web applications with modern technologies.
-  <br />
-  🎯 Focused on delivering clean, maintainable, and high-performance code using <strong>React, TypeScript, Next.js</strong>, and modern frontend ecosystems.
+  🚀 I build fast, scalable and accessible web applications.<br/>
+  🎯 Specialized in React ecosystem, modern architecture and performance-driven development.
 </p>
 
 ---
 
-- 👨‍💻 Currently working at:  
-  - **Pharmaceutical Industry Development Agency**  
-  - **Najot Ta'lim**
+### 🧠 About Me
 
-- 🧠 Constant learner with interest in:  
-  - Scalable frontend architecture  
-  - Design systems and component-driven development  
-  - Performance optimization and accessibility
+- 👨‍💻 Senior Frontend Developer with strong focus on **React & TypeScript**
+- 🏢 Currently working at:
+  - Unicorp Company
+- ⚡ Passionate about scalable frontend architecture
+- 🎨 Love building design systems & reusable component libraries
+- 📈 Focused on performance optimization & accessibility
 
-- 📫 Reach me at:  
-  [📧 me@sultonqul.uz](mailto:me@sultonqul.uz)  
-  [💬 Telegram: @sultonqul](https://t.me/sultonqul)
+---
 
-- 🛠️ Tech Stack:  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)  
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)  
-  ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)  
-  ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)  
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sultonqulnd&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultonqulnd&layout=compact&hide_border=true" height="160"/>
+</p>
+
+---
+
+### 📫 Connect with me
+
+<p align="center">
+  <a href="mailto:me@sultonqul.uz">
+    <img src="https://img.shields.io/badge/Email-me@sultonqul.uz-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://t.me/sultonqul">
+    <img src="https://img.shields.io/badge/Telegram-@sultonqul-26A5E4?style=for-the-badge&logo=telegram"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <em>“Code is not just written, it's crafted.”</em>
+  <i>"Code is not just written, it's crafted."</i>
 </p>
