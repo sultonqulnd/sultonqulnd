@@ -48,8 +48,8 @@
 ### 📫 Connect with me
 
 <p align="center">
-  <a href="mailto:me@sultonqul.uz">
-    <img src="https://img.shields.io/badge/Email-me@sultonqul.uz-red?style=for-the-badge&logo=gmail"/>
+  <a href="mailto:sultonqulnd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sultonqulnd@gmail.com-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://t.me/sultonqul">
     <img src="https://img.shields.io/badge/Telegram-@sultonqul-26A5E4?style=for-the-badge&logo=telegram"/>
