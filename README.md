@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sultonqul Nortoyloqov 👋</h1>
 
 <p align="center">
-  <b>Senior Frontend Developer | React.js Specialist</b>
+  <b>Senior Frontend Engineer</b>
 </p>
 
 <p align="center">
@@ -32,15 +32,6 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sultonqulnd&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultonqulnd&layout=compact&hide_border=true" height="160"/>
 </p>
 
 ---
